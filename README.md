@@ -33,5 +33,11 @@ Inicializar el proyecto
 - Hooks: useEffect, useSelect, useDispatch;
 - Librerias: Redux Toolkit, Axios, bootstrap
 
+## Referencias 
+- API: https://reqres.in/
+- Curso React: https://youtu.be/c0MpQeOKc-4
 
+
+---
+⌨️ con ❤️ por [GeorginaBosque](https://github.com/Gina04) 
 
