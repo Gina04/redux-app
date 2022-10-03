@@ -36,7 +36,7 @@ Inicializar el proyecto
 ## Referencias 
 - API: https://reqres.in/
 - Curso React: https://youtu.be/c0MpQeOKc-4
-- -Skill Factory by Avalith 
+- Skill Factory by Avalith 
 
 
 ---
