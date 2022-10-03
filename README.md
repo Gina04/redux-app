@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Lista de usuarios con Redux Toolkit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![descripción de la imágen](https://hybridheroes.de/blog/content/images/2022/03/redux-toolkit-1400.jpg)
 
-## Available Scripts
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-Terminado-green)
 
-In the project directory, you can run:
+
+## Descripcion del proyecto.\
+## Consultar una API, tomar una lista de usuarios colocar esta lista en el estado global de la app 
+y dejandola ahi para que cualquier componente pueda usarla, en este ejemplo quién utiliza la lista de usuarios
+es el componente UserList y esta quien hace el llamado a la API y manda a ejecutar esa operación.
 
 ### `npm start`
 
