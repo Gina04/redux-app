@@ -16,5 +16,22 @@ componetes, y varios de estos componentes con seguridad van a compartir la misma
 pasarla a través de props, la podemos dejar en un estado global o en una store como redux para que ellos la consulten 
 desde acá.
 
-## Acceso al proyecto
+## 🛠️ Abre y ejecuta el proyecto
+
+Clonar el repositorio remoto  
+`git clone https://github.com/Gina04/redux-app.git`
+
+Instala las dependencias del proyecto  
+`npm install`
+
+Inicializar el proyecto  
+`npm start`
+## :heavy_check_mark: Tecnologías utilizadas  
+- React 
+- Redux
+- npm 
+- Hooks: useEffect, useSelect, useDispatch;
+- Librerias: Redux Toolkit, Axios, bootstrap
+
+
 
